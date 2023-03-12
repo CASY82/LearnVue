@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      여기는 나의 프로젝트다. 잘 배포가 되는지 볼까?
+      여기는 나의 프로젝트다. 잘 배포가 되는지 볼까? 두번째 테스트다!~<br>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
