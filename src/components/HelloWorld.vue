@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      여기는 나의 프로젝트다. 잘 배포가 되는지 볼까? 다섯번째 테스트다!~<br>
+      여기는 나의 프로젝트다. 잘 배포가 되는지 볼까? 정신나가겠다.~<br>
       이번엔 제발 되라...<br>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
