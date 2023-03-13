@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      오늘은 20230313 웹훅 테스트 입니다.<br>
+      오늘은 20230313 태그 웹훅 테스트 입니다.<br>
     <br>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
