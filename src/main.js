@@ -1,6 +1,8 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-const app = createApp(App)
+// 컨테이너 생성
+const app = createApp(App);
 
-app.mount("#app")
+// vue 2의 el구문
+app.mount("#app");
